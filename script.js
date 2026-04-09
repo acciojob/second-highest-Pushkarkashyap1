@@ -1,6 +1,6 @@
 //your JS code here. If requi
 function secondHighest(arr) {
-    if (!arr || arr.length < 2) {
+    if (!arr || arr.length < 1) {
         return -Infinity;
     }
 
